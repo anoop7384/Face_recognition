@@ -36,9 +36,5 @@ cd face-recognition-using-opencv
 sudo apt-get install python-opencv
 ```
 
-## Results 
-
-#### Detect and recognize faces from video camera-
-![Result](https://github.com/aakashjhawar/face-recognition-using-opencv/blob/master/images/output1.png)
 
 
